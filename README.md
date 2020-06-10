@@ -39,3 +39,6 @@ An android application focused at answering academic and admission related queri
 1. Obtain the admission procedure
 2. Accommodation related queries
 3. Placements
+
+## Note
+All diagrams and testing results have been put together in report.pdf
