@@ -85,7 +85,7 @@ public class parent extends Fragment implements View.OnClickListener
                         num == 101816019 || num == 101816030)
                 {
                     Intent fee_browserIntent = new Intent(Intent.ACTION_VIEW,
-                            Uri.parse("https://eazypay.icicibank.com/homePage"));
+                            Uri.parse("https://eps.eshiksha.net/esh/index.php?plugin=Login&action=index"));
                     startActivity(fee_browserIntent);
                 }
                 else exit(1);
