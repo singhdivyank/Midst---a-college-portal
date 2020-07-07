@@ -29,7 +29,7 @@ public class HomeFragment extends Fragment
             @Override
             public void onChanged(@Nullable String s) {
                 s = "Developed by Divyank Singh. \n While paying fee enter " +
-                        "Thapar University in Institution name";
+                        "THAP<rollnumber> as username and a password";
                 textView.setText(s);
             }
         });
